@@ -1,4 +1,4 @@
-# 🍕 Domino’s Sales Dashboard (Technology Used: Power BI)
+# Domino’s Sales Dashboard (Technology Used: Power BI)
 This repository showcases an interactive Power BI dashboard designed to analyze and visualize Domino’s sales data. It provides valuable insights into revenue trends, customer preferences, and sales performance across different categories, time slots, and pizza types.
 
 ## 📌 Project Overview
