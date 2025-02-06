@@ -69,7 +69,7 @@ Clone this repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/dominos-sales-dashboard
+git clone https://github.com/akashhh23/dominos-sales-dashboard
 📂 Open the Power BI (.pbix) file and start exploring insights!
 
 ## 📢 Contributions
