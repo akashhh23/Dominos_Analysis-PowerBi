@@ -80,8 +80,8 @@ Contributions are welcome! Feel free to submit a pull request or open an issue t
 
 🚀 Let’s connect and discuss data analytics, Power BI, and business intelligence!
 
-## 🔗 LinkedIn: Your LinkedIn Profile
-## 🔗 GitHub: Your GitHub Profile
+## 🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/akash-patil-674569219?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BYwUSpPqBRGSN5jzTtnIAEg%3D%3D)
+## 🔗 GitHub: [Your GitHub Profile](https://github.com/akashhh23)
 
 What insights stand out to you? Drop your thoughts in the comments! 👇
 #PowerBI #DataAnalytics #Dominos #SalesDashboard #BusinessIntelligence #DataVisualization
